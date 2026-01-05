@@ -1,33 +1,22 @@
-Hi, I’m Serenay Mercan Humar
+# Hi, I'm Serenay Mercan Humar
 
-Computer Engineering Student
-Erasmus Exchange Student at Hochschule Schmalkalden, Germany
+I'm a Computer Engineering student currently an Erasmus exchange student at Hochschule Schmalkalden, Germany.  
+My main interests are Deep Learning, Computer Vision, AI-driven systems, and interactive applications.
 
-Focus Areas: Deep Learning, Computer Vision, AI-driven Applications, Game Development
+## What I've been working on
 
-What I Work On
+- Facial expression analysis using deep learning techniques  
+- Computer vision pipelines for real-time inference  
+- Emotion-aware and adaptive AI systems  
+- Data preprocessing, model training, evaluation, and optimization  
+- Mobile and cross-platform application development  
 
-Facial expression analysis using deep learning approaches
+## Technologies
 
-Computer vision pipelines and real-time inference systems
+- **Languages:** Python, Dart, C, C++, JavaScript  
+- **Machine Learning & Computer Vision:** PyTorch, OpenCV, NumPy, Pandas  
+- **Frameworks & Tools:** Flutter, Unity, Firebase, Git, Linux  
+- **Databases:** SQL, NoSQL  
+- **Other:** REST APIs, real-time systems  
 
-AI integration into interactive and game-based environments
-
-Data preprocessing, model training, evaluation, and optimization
-
-Mobile and cross-platform application development
-
-Technical Skills
-
-Programming Languages: Python, Dart, C/C++, JavaScript
-Machine Learning & Computer Vision: PyTorch, OpenCV, NumPy, Pandas
-Frameworks & Tools: Flutter, Firebase, Unity, Git, Linux
-Other: SQL / NoSQL databases, REST APIs, real-time systems
-
-Contact
-
-LinkedIn: https://www.linkedin.com/in/serenay-mercan-humar
-
-Email: mercanhumar77@gmail.com
-
-Always learning. Always building.
+I use GitHub to organize my academic work, experiments, and ongoing learning process.
