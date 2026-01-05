@@ -13,9 +13,9 @@ My main interests are Deep Learning, Computer Vision, AI-driven systems, and int
 
 ## Technologies
 
-- **Languages:** Python, Dart, C, C++, JavaScript  
+- **Languages:** Python, Dart, C#, Java, JavaScript  
 - **Machine Learning & Computer Vision:** PyTorch, OpenCV, NumPy, Pandas  
-- **Frameworks & Tools:** Flutter, Unity, Firebase, Git, Linux  
+- **Frameworks & Tools:** Flutter, Unity, Firebase, Git 
 - **Databases:** SQL, NoSQL  
 - **Other:** REST APIs, real-time systems  
 
