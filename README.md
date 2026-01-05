@@ -1,50 +1,33 @@
-# 👋 Hi, I'm Serenay Mercan Humar 
+Hi, I’m Serenay Mercan Humar
 
-🎓 Computer Engineering Student  
-📍 Erasmus Exchange Student at Hochschule Schmalkalden, Germany  
-🧠 Focus Areas: Deep Learning, Computer Vision, AI-driven Applications, Game Development  
+Computer Engineering Student
+Erasmus Exchange Student at Hochschule Schmalkalden, Germany
 
----
+Focus Areas: Deep Learning, Computer Vision, AI-driven Applications, Game Development
 
-## 🔬 What I Work On
-- Facial Expression Recognition (CNN · PyTorch · OpenCV)  
-- Real-time Emotion-Based Interaction Systems  
-- AI Integration into Unity / Game Development  
-- Data Processing, Model Training and Optimization  
-- Mobile & Cross-platform Applications (Flutter)
+What I Work On
 
----
+Facial expression analysis using deep learning approaches
 
-## 🚀 Highlight Projects
-- **Facial Expression Recognition (CNN, PyTorch)**
-  - Trained a custom CNN on FER2013 & video datasets  
-  - Real-time inference via webcam  
-  - Unity integration for adaptive psychological thriller game scenes  
+Computer vision pipelines and real-time inference systems
 
-- **Walking Tracker App (Flutter + Firebase + GPS)**
-  - Route tracking, step counting, activity history  
-  - SQLite/SpatiaLite for offline map storage  
-  - Weather API + statistics dashboard  
+AI integration into interactive and game-based environments
 
-- **Restaurant Stock & Inventory Management System**
-  - Python-based backend  
-  - Optimized stock tracking, expiration alerts  
-  - Interface designed for large/small business flow
+Data preprocessing, model training, evaluation, and optimization
 
----
+Mobile and cross-platform application development
 
-## 🛠️ Tech Stack
-**Languages:** Python, Dart, C/C++, JavaScript  
-**ML & CV:** PyTorch, OpenCV, NumPy, Pandas  
-**Tools:** Git, Linux, Firebase, Unity, Flutter  
-**Other:** SQL/NoSQL, REST APIs, Realtime Systems  
+Technical Skills
 
----
+Programming Languages: Python, Dart, C/C++, JavaScript
+Machine Learning & Computer Vision: PyTorch, OpenCV, NumPy, Pandas
+Frameworks & Tools: Flutter, Firebase, Unity, Git, Linux
+Other: SQL / NoSQL databases, REST APIs, real-time systems
 
-## 📫 Contact  
-**LinkedIn:** https://www.linkedin.com/in/serenay-mercan-humar  
-**Email:** mercanhumar77@gmail.com
+Contact
 
----
+LinkedIn: https://www.linkedin.com/in/serenay-mercan-humar
 
-### ⭐ “Always learning. Always building.”  
+Email: mercanhumar77@gmail.com
+
+Always learning. Always building.
