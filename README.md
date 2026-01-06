@@ -1,7 +1,6 @@
 # Hi, I'm Serenay Mercan Humar
 
-I'm a Computer Engineering student currently an Erasmus exchange student at Hochschule Schmalkalden, Germany.  
-My main interests are Deep Learning, Computer Vision, AI-driven systems, and interactive applications.
+My main interests include Deep Learning, Computer Vision, and the development of AI-driven and interactive systems.
 
 ## What I've been working on
 
