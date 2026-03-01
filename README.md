@@ -1,21 +1,21 @@
 # Hi, I'm Serenay Mercan Humar
 
-My main interests include Deep Learning, Computer Vision, and the development of AI-driven and interactive systems.
+Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
 
 ## What I've been working on
 
-- Facial expression analysis using deep learning techniques  
-- Computer vision pipelines for real-time inference  
-- Emotion-aware and adaptive AI systems  
-- Data preprocessing, model training, evaluation, and optimization  
-- Mobile and cross-platform application development  
+- Real-time facial expression recognition using EfficientNet-B0 and MTCNN
+- Full stack web application development with Angular and .NET
+- Mobile app development with Flutter and Firebase
+- Backend systems with Node.js, Express, and MySQL
 
 ## Technologies
 
-- **Languages:** Python, Dart, C#, Java, JavaScript  
-- **Machine Learning & Computer Vision:** PyTorch, OpenCV, NumPy, Pandas  
-- **Frameworks & Tools:** Flutter, Unity, Firebase, Git 
-- **Databases:** SQL, NoSQL  
-- **Other:** REST APIs, real-time systems  
+- **Languages:** Python
+- **Databases:** MySQL, SQLite, PostgreSQL
+- **Frameworks & Tools:** PyTorch, Flutter, Firebase, Angular, .NET, Git & GitHub
 
-I use GitHub to organize my academic work, experiments, and ongoing learning process.
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/serenay-mercan-humar/)
+- 📧 mercanhumar77@gmail.com
