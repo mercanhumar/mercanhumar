@@ -1,21 +1,59 @@
-# Hi, I'm Serenay Mercan Humar
+# Hi, I'm Serenay Mercan Humar 👋
 
 Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
 
-## What I've been working on
+---
+
+## 🔨 What I've been working on
 
 - Real-time facial expression recognition using EfficientNet-B0 and MTCNN
 - Full stack web application development with Angular and .NET
 - Mobile app development with Flutter and Firebase
 - Backend systems with Node.js, Express, and MySQL
 
-## Technologies
+---
 
-- **Languages:** Python
-- **Databases:** MySQL, SQLite, PostgreSQL
-- **Frameworks & Tools:** PyTorch, Flutter, Firebase, Angular, .NET, Git & GitHub
+## 📌 Technologies
 
-## Connect
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/serenay-mercan-humar/)
-- 📧 mercanhumar77@gmail.com
+---
+
+## 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/serenay-mercan-humar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mercanhumar77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
