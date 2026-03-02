@@ -40,9 +40,6 @@ Computer Engineering student at Bartın University, currently interning as a Ful
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
 </p>
 
 ---
@@ -53,8 +50,14 @@ Computer Engineering student at Bartın University, currently interning as a Ful
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+  </a>
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
   </a>
   <a href="https://unity.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
@@ -70,6 +73,9 @@ Computer Engineering student at Bartın University, currently interning as a Ful
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
 </p>
 
