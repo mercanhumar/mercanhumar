@@ -47,6 +47,34 @@ Computer Engineering student at Bartın University, currently interning as a Ful
 
 ---
 
+## 🛠️ Tools
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
+  </a>
+</p>
+
+---
+
 ## 🔗 Connect
 
 <p align="left">
