@@ -1,6 +1,6 @@
-# Hi, I'm Serenay Mercan Humar 👋
+# Hi, I'm Serenay Mercan Humar
 
-Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
+I am a Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
 
 ---
 
