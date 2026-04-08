@@ -1,7 +1,7 @@
-# Hi, I'm Serenay Mercan Humar
+# Hi, I'm Serenay Mercan Humar #
 
 I am a Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
----
+
 ## What I've been working on
 
 - Real-time facial expression recognition using EfficientNet-B0 and MTCNN
