@@ -1,19 +1,40 @@
-# Hi, I'm Serenay Mercan Humar #
+# Hi, I'm Serenay Mercan Humar
 
-I am a Computer Engineering student at Bartın University, currently interning as a Full Stack Developer. My main interests are machine learning, computer vision, and full stack web development.
+Computer Engineering student at Bartın University, interning as a Full Stack Developer at Larinsoft Bilişim, Ankara.
+
+My main interests are **computer vision**, **deep learning**, and **full stack development**.
+
+---
+
+## Research Interests
+
+- Facial expression recognition · class imbalance in vision datasets
+- Deep learning model generalization under distribution shift
+- Real-time inference systems
+
+---
 
 ## What I've been working on
 
-- Real-time facial expression recognition using EfficientNet-B0 and MTCNN
+- **Facial Expression Recognition Pipeline** (Graduation Thesis) — ConvNeXt-Tiny trained on RAF-DB with WeightedRandomSampler, class-weighted loss, and mixup augmentation. Two-stage fine-tuning, MTCNN face detection, Unity socket integration. *(FER2013 → FERPlus → RAF-DB: each switch was driven by a real failure.)*
+- **PhotoFace** — Real-time face recognition system using InsightFace, pgvector, .NET 10 Clean Architecture, Python FastAPI, and Angular
 - Full stack web application development with Angular and .NET
 - Mobile app development with Flutter and Firebase
-- Backend systems with Node.js, Express, and MySQL
+- Backend systems with Node.js, Express, and PostgreSQL
+
+---
 
 ## Technologies
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
   </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
@@ -30,7 +51,12 @@ I am a Computer Engineering student at Bartın University, currently interning a
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  </a>
 </p>
+
+---
 
 ## Tools
 
@@ -55,8 +81,16 @@ I am a Computer Engineering student at Bartın University, currently interning a
   </a>
 </p>
 
+---
 
-## Get to know About me!
+## Education
+
+- 🎓 BSc Computer Engineering — Bartın University (2022 – present, GPA 3.20/4.00)
+- 🌍 Erasmus Exchange Scholarship — Hochschule Schmalkalden, Germany (Oct 2025 – Mar 2026)
+
+---
+
+## Get to know me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/serenay-mercan-humar/" target="_blank">
