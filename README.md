@@ -8,8 +8,8 @@ What I've been working on
 - Full stack web application development with Angular and .NET
 - Mobile app development with Flutter and Firebase
 - Backend systems with Node.js, Express, and MySQL
----
-Technologies
+
+##Technologies
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -31,8 +31,8 @@ Technologies
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
 </p>
----
-Tools
+
+##Tools
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -57,7 +57,7 @@ Tools
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/serenay-mercan-humar/" target="_blank">
