@@ -57,7 +57,7 @@ I am a Computer Engineering student at Bartın University, currently interning a
 
 ---
 
-## Connect
+## Get to know About me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/serenay-mercan-humar/" target="_blank">
