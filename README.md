@@ -55,7 +55,6 @@ I am a Computer Engineering student at Bartın University, currently interning a
   </a>
 </p>
 
----
 
 ## Get to know About me!
 
