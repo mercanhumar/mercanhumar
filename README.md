@@ -4,7 +4,7 @@ Computer Engineering student at Bartın University, interning as a Full Stack De
 
 My main interests are **computer vision**, **deep learning**, and **full stack development**.
 
----
+
 
 ## Research Interests
 
@@ -12,7 +12,7 @@ My main interests are **computer vision**, **deep learning**, and **full stack d
 - Deep learning model generalization under distribution shift
 - Real-time inference systems
 
----
+
 
 ## What I've been working on
 
@@ -22,7 +22,7 @@ My main interests are **computer vision**, **deep learning**, and **full stack d
 - Mobile app development with Flutter and Firebase
 - Backend systems with Node.js, Express, and PostgreSQL
 
----
+
 
 ## Technologies
 
@@ -56,7 +56,7 @@ My main interests are **computer vision**, **deep learning**, and **full stack d
   </a>
 </p>
 
----
+
 
 ## Tools
 
@@ -81,14 +81,14 @@ My main interests are **computer vision**, **deep learning**, and **full stack d
   </a>
 </p>
 
----
+
 
 ## Education
 
 - 🎓 BSc Computer Engineering — Bartın University (2022 – present, GPA 3.20/4.00)
 - 🌍 Erasmus Exchange Scholarship — Hochschule Schmalkalden, Germany (Oct 2025 – Mar 2026)
 
----
+
 
 ## Get to know me!
 
