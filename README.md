@@ -19,9 +19,6 @@ I am a Computer Engineering student at Bartın University, currently interning a
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-  </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   </a>
@@ -33,9 +30,6 @@ I am a Computer Engineering student at Bartın University, currently interning a
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
@@ -53,17 +47,8 @@ I am a Computer Engineering student at Bartın University, currently interning a
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
   </a>
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-  </a>
   <a href="https://unity.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
