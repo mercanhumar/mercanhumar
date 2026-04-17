@@ -8,7 +8,7 @@ Building software that solves real problems — from auditing enterprise platfor
 
 ### Currently
 
-**Product Engineer Intern @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
+**Full-Stack Developer / Product Engineer Intern @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
 
 | Project | What I did | Stack |
 |---------|-----------|-------|
