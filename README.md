@@ -10,11 +10,6 @@ Building software that solves real problems — from auditing enterprise platfor
 
 **Full-Stack Developer / Product Engineer Intern @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
 
-| Project | What I did | Stack |
-|---------|-----------|-------|
-| **CladChat Audit** | Conducted full-stack analysis of a closed-system enterprise messaging platform. Benchmarked against Teams, Slack, Rocket.Chat. Delivered 14 feature proposals across security, compliance, and AI. | Flutter, .NET, SignalR |
-| **CladKnowledge** | Designed and implementing an on-premise AI chatbot with RAG pipeline for enterprise knowledge retrieval. Fully air-gapped — no data leaves the server. | Ollama, aya:8b, ChromaDB, .NET |
-| **PhotoFace** | Built an event-based face recognition platform end-to-end. Benchmarked InsightFace vs existing model → migrated production system. | .NET, Angular, Flutter, FastAPI, PostgreSQL, MinIO |
 
 ---
 
