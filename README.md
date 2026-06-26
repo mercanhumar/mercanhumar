@@ -1,6 +1,6 @@
 # Serenay Mercan Humar
 
-**Product Engineer** · Full Stack Development · AI Integration · Enterprise Software
+**Junior Product Engineer** · Full Stack Development · AI Integration · Enterprise Software
 
 Building software that solves real problems — from auditing enterprise platforms and proposing improvements to designing AI architectures and shipping them to production.
 
