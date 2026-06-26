@@ -1,14 +1,14 @@
 # Serenay Mercan Humar
 
-**Junior Product Engineer** · Full Stack Development · AI Integration · Enterprise Software
+**Junior Product Engineer** · Full Stack Development · AI Integration · Affective Computing
 
-Building software that solves real problems — from auditing enterprise platforms and proposing improvements to designing AI architectures and shipping them to production.
+Building software that solves real problems, from auditing enterprise platforms and proposing improvements to designing AI architectures and shipping them to production.
 
 ---
 
 ### Currently
 
-**Full-Stack Developer / Product Engineer Intern @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
+**Junior Product Engineer @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
 
 
 ---
@@ -33,7 +33,7 @@ Building software that solves real problems — from auditing enterprise platfor
 
 ### Education
 
-**B.Sc. Computer Engineering** · Bartın University · GPA 3.20/4.00 · 2022 – Jan 2027
+**B.Sc. Computer Engineering** · Bartın University · GPA 3.1/4.00 · 2022 – Jan 2027
 
 **Erasmus+ Exchange** · Hochschule Schmalkalden, Germany · Oct 2025 – Mar 2026
 
