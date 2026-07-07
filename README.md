@@ -6,12 +6,6 @@ Building software that solves real problems, from auditing enterprise platforms 
 
 ---
 
-### Currently
-
-**Junior Product Engineer @ [Larinsoft](https://larinsoft.com)** · Ankara, Turkey
-
-
----
 
 ### Tech
 
