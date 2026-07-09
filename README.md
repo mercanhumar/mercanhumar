@@ -18,15 +18,11 @@ Building software that solves real problems, from auditing enterprise platforms 
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </p>
 
----
-
 ### Education
 
 **B.Sc. Computer Engineering** · Bartın University · GPA 3.1/4.00 · 2022 – Jan 2027
 
 **Erasmus+ Exchange** · Hochschule Schmalkalden, Germany · Oct 2025 – Mar 2026
-
----
 
 <p align="left">
   <a href="https://www.linkedin.com/in/serenay-mercan-humar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
