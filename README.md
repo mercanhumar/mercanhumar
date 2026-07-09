@@ -2,9 +2,6 @@
 
 Building software that solves real problems, from auditing enterprise platforms and proposing improvements to designing AI architectures and shipping them to production.
 
----
-
-
 ### Tech
 
 <p align="left">
